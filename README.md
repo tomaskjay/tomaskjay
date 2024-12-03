@@ -1,4 +1,4 @@
-## Hi there, I'm Tomas 👋
+### Hi there, I'm Tomas 👋
 
 - 📚 I'm currently a student at Case majoring in CS
 - 🌱 I’m focusing on full stack development and UI
